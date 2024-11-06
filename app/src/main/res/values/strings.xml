@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cart</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_top_bar">TopBar</string>
+    <string name="title_activity_bottom_app_bar">BottomAppBar</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_product_card">ProductCard</string>
+    <string name="title_activity_screens">Screens</string>
+    <string name="title_activity_test_scr">testScr</string>
+    <string name="title_activity_slide_banner">SlideBanner</string>
+    <string name="title_activity_add_product">AddProduct</string>
+</resources>
